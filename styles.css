@@ -143,7 +143,7 @@ section:not(:first-child) {
 
 footer {
     overflow: hidden;
-    background: #252525;
+    background: black;
     padding: 7em 0;
     position: relative;
     display: block;
